@@ -378,6 +378,6 @@ return [
         'PayPal_BraintreeGiftCardAccount' => 1,
         'PayPal_BraintreeGiftWrapping' => 1,
         'PayPal_BraintreeGraphQl' => 1,
-        'WebApi_GoogleGeoCodingAp' => 1
+        'WebApi\GoogleGeoCodingApi' => 1
     ]
 ];
